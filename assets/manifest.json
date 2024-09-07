@@ -5,12 +5,12 @@
   "name": "2024 Favorite Music",
   "orientation": "any",
   "scope": "/",
-  "short_name": "lively-beach-043afe61e.5.azurestaticapps",
+  "short_name": "2024 Favorite Music",
   "start_url": "/",
   "theme_color": "#3422da",
   "icons": [
     {
-      "src": "./assets/icon.png",
+      "src": "./icon.png",
       "type": "image/png",
       "sizes": "512x512"
     }
