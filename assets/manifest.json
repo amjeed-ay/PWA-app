@@ -1,0 +1,20 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "2024 Favorite Music",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "lively-beach-043afe61e.5.azurestaticapps",
+  "start_url": "/",
+  "theme_color": "#3422da",
+  "icons": [
+    {
+      "src": "./assets/icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "id": "myfav2024",
+  "description": "This is my favorite music of 2024"
+}
